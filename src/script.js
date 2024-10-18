@@ -47,7 +47,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 function sendWhatsApp() {
   console.log("sendWhatsApp function called");
-  const phonenumber = "+6281818494295";
+  const phonenumber = "+628973715969";
 
   const nameElement = document.querySelector(".name");
   const subjectElement = document.querySelector(".subject");
